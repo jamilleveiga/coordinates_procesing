@@ -1,0 +1,26 @@
+Code	Species	City	State	Country	Long	Lat
+Tin10.1	Trichechus inunguis	Alenquer	Pará	Brazil	-54.738804505577505	-1.9451614535495012
+Tin1.1	Trichechus inunguis	Gurupá	Pará	Brazil	-51.64592239375702	-1.4025018266240075
+Tin13.1	Trichechus inunguis	Ilha das Onças	Pará	Brazil	-48.55000003811673	-1.4512007322602012 
+Tin3.1	Trichechus inunguis	Monte Alegre	Pará	Brazil	-54.06755243753825	-1.983097838643766
+Tin14.1	Trichechus inunguis	Óbidos	Pará	Brazil	-55.519740260667454	-1.897485265726342
+Tin11.1	Trichechus inunguis	Prainha	Pará	Brazil	-53.48208047248265	-1.7981781993946606
+Tin9.1	Trichechus inunguis	Salvaterra	Pará	Brazil	-48.515436659539986	-0.7502730712144795
+Tin6.1	Trichechus inunguis	Santarém	Pará	Brazil	-54.70476846927421	-2.4522583458995486
+Tin4.1	Trichechus inunguis	Terra Santa	Pará	Brazil	-56.493950887371	-2.1014353687274023
+Tma13.1	Trichechus manatus	Aquiraz	Ceará	Brazil	-38.38730786213205	-3.906221525355357
+Tma08.1	Trichechus manatus	Areia Branca	Rio Grande do Norte	Brazil	-37.12572778213012	-4.927050295708411
+Tma11.1	Trichechus manatus	Baía Formosa	Rio Grande do Norte	Brazil	-34.99246431467973	-6.3754469665913875
+Tma04.1	Trichechus manatus	Beberibe	Ceará	Brazil	-38.143503779384574	-4.186656793028388
+BZ4	Trichechus manatus	Belize River		Belize	-88.77680282451328	16.791150498541437
+BR1	Trichechus manatus	Conde	Paraíba	Brazil	-34.911688271448206	-7.259618015853892
+1414	Trichechus manatus	Crystal River	Florida	US	-82.65351330140447	28.93758509221396
+Tma10.1	Trichechus manatus	Humberto dos Campos	Maranhão	Brazil	-43.43297895947317	-2.6223780773830576
+Tma06.1	Trichechus manatus	Itamaracá	Ceará	Brazil	-34.85276045109451	-7.758404308138974
+Tma05.1	Trichechus manatus	Macau	Rio Grande do Norte	Brazil	-36.63416563518802	-5.116674294968706
+Tma02.1	Trichechus manatus	Maceió	Alagoas	Brazil	-35.66580832989072	-9.62681146770466
+BR3	Trichechus manatus	Pitimbu	Paraíba	Brazil	-34.802442766532785	-7.4498096361571085
+Tma01.1	Trichechus manatus	Rio Tinto	Paraíba	Brazil	 -35.057571246098036	-6.8057925555721805
+BZ1	Trichechus manatus	Southern Lagoon		Belize	-88.3387028325512	17.209951627437768
+Tma15.1	Trichechus manatus	Tibau do Sul	Rio Grande do Norte	Brazil	-35.09201390195998	-6.184983721954134
+	Trichechus manatus		Amapá	Brazil	-49.947671342409066	1.6933716925429765
